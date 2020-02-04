@@ -19,4 +19,4 @@ A primeira linha do dataset contém os seguintes dados:
 A segunda linha contém N inteiros - o número de fatias de pizza em cada tipo de pizza, em ordem não decrescente:
   - 1 ≤ S0 ≤ S1 ≤ ... ≤ S(N-1) <= M
 
-Veja o exemplo de como carregar os arquivos em [Example.ipynb](http://github.com/daltonvarao/hashcode2020/blob/Example.ipynb)
+Veja o exemplo de como carregar os arquivos em [Example.ipynb](https://github.com/daltonvarao/hashcode2020/blob/master/Example.ipynb)
